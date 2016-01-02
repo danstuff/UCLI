@@ -1,0 +1,49 @@
+//initialize add1:
+character :
+character 1
+character d
+character d
+character a
+
+//output 'add1:' to console
+console out
+delete
+console out
+delete
+console out
+delete
+console out
+delete
+console out
+delete
+
+//get input
+console in
+newline
+
+//initialize add2:
+character :
+character 2
+character d
+character d
+character a
+
+//output 'add2:' to console
+console out
+delete
+console out
+delete
+console out
+delete
+console out
+delete
+console out
+delete
+
+//get input
+console in
+newline
+
+//add and output to console
+add
+console out
